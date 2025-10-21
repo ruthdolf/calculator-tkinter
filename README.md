@@ -48,10 +48,7 @@ calculator.py        # Main program file
 
 
 ## Interface Preview
-You can add a screenshot:
-```markdown
 ![Tkinter Calculator Screenshot](calculator.png)
-```
 
 
 
